@@ -1,0 +1,64 @@
+.box3{
+    margin: 20px;
+    padding: 10px;
+    border: 2px ;
+    width: 600px;
+    height: fit-content;
+}
+.box3>h1{
+    font-size: 40px;
+    font-style: italic;
+    color: aliceblue;
+    text-align: left;
+    text-transform: capitalize;
+    text-shadow: 5px 5px chocolate;
+}
+.box3>p{
+    color: blanchedalmond;
+    font-style: oblique;
+    font-size: 25px;
+}
+.box4{
+    margin: 20px;
+    padding: 20px;
+    border: 2px  ;
+    width: 400px;
+    height: fit-content;
+}
+.box4>h1{
+    text-align: left;
+    font-size: 40px;
+    font-style: italic;
+    color: bisque;
+    text-transform: capitalize;
+    text-shadow: 5px 5px rgb(108, 73, 73);
+}
+.box4>pre{
+    font-size: 22px;
+    color: blanchedalmond;
+    text-transform: auto;
+    font-style: italic;
+    text-indent: 20px;
+   
+}
+.box5{
+    margin: 20px;
+    padding: 10px;
+    border: 2px ;
+    width: 450px;
+    height: 60vh;
+}
+.box5>h1{
+    font-size: 40px;
+    text-align: left;
+    text-shadow: 4px 4px cornflowerblue;
+    color: azure;
+    font-style: italic;
+    text-transform: capitalize;
+}
+.box5>pre{
+    color: rgb(160, 167, 167);
+    font-size: 19px;
+    text-indent: 20px;
+    font-style: italic;
+}
