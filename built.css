@@ -3,9 +3,9 @@
     padding: 0px;
     background-color: rgb(22, 18, 18);
 }
-/* .container{
+.container{
     display: inline-block;
-} */
+}
 .box1{
      margin: 20px;
      padding: 10px;
@@ -121,7 +121,7 @@
     border: 2px ;
     width: 500px;
     height: fit-content;
-    /* display: inline-block; */
+    display: inline-block;
 }
 .box6>pre{
     color: bisque;
