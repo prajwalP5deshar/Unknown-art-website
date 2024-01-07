@@ -1,0 +1,40 @@
+.box-box-cont{
+    width: 60%;
+    height: fit-content;
+    display: flex;
+    gap: 20px; 
+}
+.box5{
+    margin: 10px;
+    padding: 10px;
+    background-color:rgb(116, 207, 195);
+    width: 10%;
+    height: 100%;
+    border-radius: 5px;
+    border: 2px solid ;
+    object-fit: cover;
+    overflow: hidden;
+    cursor: pointer;
+    transition: width 2s;
+    position: relative;
+}
+.box5:hover{
+    width: 27%;
+}
+.box6{
+    margin: 10px;
+    padding: 10px;
+    background-color:rgb(131, 144, 82);
+    width: 10%;
+    height: 100%;
+    border-radius: 5px;
+    border: 2px solid ;
+    object-fit: cover;
+    overflow: hidden;
+    cursor: pointer;
+    transition: width 2s;
+    position: relative;
+}
+.box6:hover{
+    width: 50%;
+}

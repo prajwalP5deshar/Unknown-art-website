@@ -1,0 +1,86 @@
+.box-cont{
+    width: 60%;
+    height: fit-content;
+    display: flex;
+    gap: 20px; 
+}
+.box1{
+    margin: 10px;
+    padding: 10px;
+    background-color:rgb(116, 207, 116);
+    width: 10%;
+    height: 100%;
+    border-radius: 5px;
+    border: 2px solid ;
+    object-fit: cover;
+    overflow: hidden;
+    cursor: pointer;
+    transition: width 2s;
+    position: relative;
+}
+.box1:hover{
+    width: 25%;
+}
+h1{
+    font-size: 30px;
+    font-style: italic;
+    color: rgb(22, 93, 69);
+    text-transform: capitalize;
+}
+pre{
+    font-size: 15px;
+    font-style: italic;
+    color: rgb(20, 20, 86);
+
+}
+.box2{
+    margin: 10px;
+    padding: 10px;
+    background-color: bisque;
+    width: 10%;
+    height: 100%;
+    border-radius: 5px;
+    border: 2px solid ;
+    object-fit: cover;
+    overflow: hidden;
+    cursor: pointer;
+    transition: width 2s;
+    position: relative;
+}
+.box2:hover{
+    width: 27%;
+}
+.box3{
+    margin: 10px;
+    padding: 10px;
+    background-color:rgb(165, 123, 123);
+    width: 10%;
+    height: 100%;
+    border-radius: 5px;
+    border: 2px solid ;
+    object-fit: cover;
+    overflow: hidden;
+    cursor: pointer;
+    transition: width 2s;
+    position: relative;
+}
+.box3:hover{
+    width: 44%;
+}
+.box4{
+    margin: 10px;
+    padding: 10px;
+    background-color:rgb(142, 146, 119);
+    width: 10%;
+    height: 100%;
+    border-radius: 5px;
+    border: 2px solid ;
+    object-fit: cover;
+    overflow: hidden;
+    cursor: pointer;
+    transition: width 2s;
+    position: relative;
+}
+.box4:hover{
+    width:28%;
+}
